@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IntegrationPrimero", "IntegrationPrimero\IntegrationPrimero.dtproj", "{C5983B5A-BEA9-4F5A-8258-7E5FEAB603A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5983B5A-BEA9-4F5A-8258-7E5FEAB603A7}.Development|Default.ActiveCfg = Development
+		{C5983B5A-BEA9-4F5A-8258-7E5FEAB603A7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52365B46-C34C-46FF-8721-7A569F83DC10}
+	EndGlobalSection
+EndGlobal
